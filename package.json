@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Rubricalkarma/discordbot/issues"
   },
-  "homepage": "https://github.com/Rubricalkarma/discordbot#readme"
+  "homepage": "https://github.com/Rubricalkarma/discordbot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
 }
